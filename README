@@ -26,18 +26,7 @@ Each dashboard is designed for clear insights, with filters for custom explorati
 
 ### Page 1 : High level Market View
 
-![Dashboard Page 1](/images/job_dashboards_uimage.png)
-
-
-## 🚀 Features
-
-- **Overall Market View**
-  - Total job counts and trends over time
-  - Median yearly and hourly salary benchmarks
-  - Breakdown of roles by job counts
-  - Hourly vs. yearly salary comparison
-  - Interactive filters by job title
-
+! Dashboard parge
 
 # 📊 Data Jobs Power BI Dashboards
 
@@ -68,14 +57,14 @@ This project showcases interactive Power BI dashboards analyzing the **data-rela
 ### Data Jobs Dashboard
 A global overview with job counts, salary stats, temporal trends, and role breakdowns.
 
-![Data Jobs Dashboard](/images/job_dashboards_uimage.png)
+![Data Jobs Dashboard](images/job_dashboards_uimage.png)
 
 ---
 
-### Job Title Drill-Through
+### Job Title Drill-Through (Data Engineer)
 Detailed insights for the selected role, including salary ranges, global demand map, and hiring details.
 
-![Job Title Drill-Through](/images/2nd_Page.png)
+![Job Title Drill-Through](images/2nd_Page.png)
 
 ---
 
