@@ -1,4 +1,5 @@
-# This is an ongoing Readme about the project.
+# This is an ongoing Readme about the project. /
+ Based on the PowerBI project that Luke Barousse and Kelly Adams, did collaged together,
 
 ## Introduction
 
